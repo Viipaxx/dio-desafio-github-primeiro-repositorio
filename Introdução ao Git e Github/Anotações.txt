@@ -1,0 +1,10 @@
+comando do git
+
+git init -> inicia um repositório local
+git status -> retorna o estado dos arquivos/diretórios
+git add . -> adiciona todos os arquivos ou diretórios modificados
+git commit -m "[mensagem]" -> realiza commit passando informação sobre tal
+git remote add origin [link do repositório] -> sincroniza o repositório local com o remoto
+git push origin new-branch -> criando um branch remoto com o mesmo nome
+git pull origin [nome-da-branch] -> download de todos os arquivos do repositório remoto para o local
+git clone [link do repositório] -> cria uma cópia do repositório local
